@@ -12,7 +12,7 @@ the structured data is easy for AI to understand and proccess it
 the machines that able to do claver and fastest work like normaly the human do them 
 
 or if we want to be clear the AI is a part of computer science that trying to make systems to think, learn and make decision to solve problem 
-or systems that doing smartly task by using ML 
+or systems that doing smartly task by using ML and other types
 
 
 # What is Machine Learning
@@ -28,6 +28,6 @@ tree types of Machine Learning
 
 `unsupervised Learning`: in this type of Learning we just have data without the answer the modal it self find the pattern 
 
-`Reinforcement Learning`: in this type the model learns from Rewards and Penalties
+`Reinforcement Learning`: in this type the model learns from Rewards and Penalties 
 
 
